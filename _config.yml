@@ -7,8 +7,8 @@ copyright_name: Eric J Wilhite
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
-github_username:  JustPlainCoding
+twitter_username: EricIsCoding
+github_username:  EricIsCoding
 
 # Build settings
 markdown: kramdown
